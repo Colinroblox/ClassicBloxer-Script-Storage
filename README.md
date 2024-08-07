@@ -1,7 +1,3 @@
-echo "# ClassicBloxer-Script-Storage" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/Colinroblox/ClassicBloxer-Script-Storage.git
-git push -u origin main
+# ClassicBloxer Script Storage
+
+Hello! This is the ClassicBloxer script repository. We are responsible for storing scripts here.
