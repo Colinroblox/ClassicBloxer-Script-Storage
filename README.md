@@ -1,8 +1,13 @@
 
 # ClassicBloxer Script Storage
 
-Hello! This is the ClassicBloxer script repository. We are responsible for storing scripts here.
+Hello! This is the ClassicBloxer script repository.  
+We are responsible for storing scripts here.
 
-# file format
-Roblox Studio programming files are .lua, so our file format is Script.lua
-![1_A240hQnv-DQsFRGuKhiOTw](https://github.com/user-attachments/assets/6c4356f9-1985-4705-8e88-5a3a236e42a5)
+# roblox Personal Profile
+Name:ClassicBloxer
+username:noob_android14
+<div align="center">
+  <img src="button css.svg" width="600" height="300" alt="">
+</div>
+
